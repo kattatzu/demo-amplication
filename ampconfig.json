@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.6",
+  "appInfo": {
+    "name": "Sample app",
+    "description": "Sample application for e-commerce",
+    "version": "mivrepj4",
+    "id": "cl2wch1uy36480201s6tbzazdd1",
+    "url": "https://app.amplication.com/cl2wch1uy36480201s6tbzazdd1",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl2wch1uy36480201s6tbzazdd1",
+      "authProvider": "Jwt"
+    }
+  }
+}
